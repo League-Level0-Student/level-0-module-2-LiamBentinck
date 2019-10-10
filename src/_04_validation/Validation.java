@@ -15,6 +15,19 @@ public class Validation {
 		int randomNumber = randomMaker.nextInt(5);
 		if (randomNumber == 0) {
 			JOptionPane.showMessageDialog(null,"you look... 'kay I guess");
+			
+		}
+		else if (randomNumber == 2) {
+			JOptionPane.showMessageDialog(null,"tfcytvyigbnihj");
+		}
+		else if (randomNumber == 3) {
+			JOptionPane.showMessageDialog(null,"tfcytvyigbnihj");
+		}
+		else if (randomNumber == 4) {
+			JOptionPane.showMessageDialog(null,"tfcytvyigbnihj");
+		}
+		else if (randomNumber == 5) {
+			JOptionPane.showMessageDialog(null,"tfcytvyigbnihj");
 		}
 		System.out.println(randomNumber);
 
