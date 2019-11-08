@@ -1,0 +1,4 @@
+int num = 0
+Random ran = new Random();
+ num = ran.nextInt(1000);
+ num = ran.nextInt(900);
